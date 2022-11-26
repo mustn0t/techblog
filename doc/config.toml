@@ -3,4 +3,4 @@ languageCode = 'ja'
 title = 'My New Hugo Site'
 theme = 'ananke'
 disableKinds = ["RSS", "sitemap"]
-publishDir = "doc"
+# publishDir = "docs"
