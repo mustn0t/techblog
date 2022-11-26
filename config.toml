@@ -1,5 +1,0 @@
-baseURL = 'http://example.org/'
-languageCode = 'ja'
-title = 'My Techblog'
-contentDir = "content"
-theme = 'ananke'
