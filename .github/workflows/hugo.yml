@@ -8,7 +8,7 @@ on:
 
 defaults:
   run:
-    working-directory: doc
+    working-directory: ./doc
 
 jobs:
   deploy:
@@ -35,4 +35,4 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./doc
+          publish_dir: ./docs
