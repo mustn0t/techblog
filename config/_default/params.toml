@@ -49,7 +49,8 @@ fontsDir = "fonts/" # without a leading forward slash
 fallBackOgImage = "images/thumbnail.png"
 
 # Logo image
-logo = "logos/logo.png"
+# logo = "logos/logo.png"
+logo = "logos/SUNTORY_logo.png"
 
 # center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
@@ -123,7 +124,7 @@ languageMenuName = "🌐"
 
 # The year when ths website was created, this value is used in the copyright
 # notice of the footer.
-# since = 2016
+since = 2022
 
 # Show related content at the end of an article based on the 'series' taxonomy. Can be set in post front matter.
 # showRelatedInArticle = false
@@ -131,7 +132,7 @@ languageMenuName = "🌐"
 
 # website author
 [author]
-name = "Jane Doe"
+name = "MasatoAoki"
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
