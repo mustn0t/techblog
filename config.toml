@@ -1,5 +1,0 @@
-baseURL = 'http://example.org/'
-languageCode = 'ja'
-title = 'TechBlog by Hugo'
-# theme = 'hugo-PaperMod'
-theme = 'hugo-clarity'
